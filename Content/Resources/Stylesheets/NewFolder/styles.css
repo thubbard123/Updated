@@ -119,3 +119,8 @@ MadCap|variable.DateTimeVariable_HourMinuteSecond
 	color: #ff00ff;
 }
 
+MadCap|variable.DELETE_NewVariable
+{
+	background: url('../../Images/Punisher.jpg') repeat;
+}
+
